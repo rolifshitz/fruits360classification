@@ -4,9 +4,10 @@
 Training models to classify images of fruits and vegetables, using the Fruits 360 dataset. This was my final project for the course PHYSICS 3G03: Intro to Neural Networks and Machine Learning in April 2021.
 
 ## Setup
-Projects in this repo were created with:
+Python requirement:
 
     Python version: 3.5
+    Pytorch
 
 ## Dataset
 The dataset, [Fruits 360](https://www.kaggle.com/moltean/fruits), provides 67 692 training images and 22 688 testing images, with 113 classes of fruits and vegetables.

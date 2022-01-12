@@ -14,4 +14,4 @@ Requirements and Anaconda Installation:
 The dataset, [Fruits 360](https://www.kaggle.com/moltean/fruits), provides 67 692 training images and 22 688 testing images, with 113 classes of fruits and vegetables.
 
 ## Note about the final model
-The CNN_Big model successfully classifies testing images of the Fruits360 dataset 96.11% of the time (accuracy), with loss 3.7921.
+The CNN_Big model (under `CNNModels.py`) successfully classifies testing images of the Fruits360 dataset 96.11% of the time (accuracy), with loss 3.7921.
